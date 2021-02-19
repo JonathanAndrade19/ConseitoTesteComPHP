@@ -1,0 +1,11 @@
+{
+    "name": "eti/composer-php",
+    "description": "Composer Curso de PHP",
+    "authors": [
+        {
+            "name": "Jonathan",
+            "email": "jonathanjampamb@gmail.com"
+        }
+    ],
+    "require": {}
+}
